@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/back"
+    android:title="back"
+    android:icon="@drawable/ic_action_back"
+    android:showAsAction="always"
+    />
+    <item
+        android:id="@+id/forward"
+        android:title="forward"
+        android:icon="@drawable/ic_action_forward"
+        android:showAsAction="always"
+        />
+    <item
+        android:id="@+id/gohome"
+        android:title="home"
+        android:icon="@drawable/ic_action_home"
+        android:showAsAction="always"
+        />
+</menu>
